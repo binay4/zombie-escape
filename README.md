@@ -39,7 +39,6 @@ pip install pygame
    ```
 2. Navigate into the project folder:
 cd zombie-dodge-game
-
 3.Run the game:
 python main.py
 ---
