@@ -38,8 +38,10 @@ pip install pygame
    git clone https://github.com/your-username/zombie-dodge-game.git
    ```
 2. Navigate into the project folder:
-cd zombie-dodge-game  
+  cd zombie-dodge-game 
+
 3.Run the game:
-python main.py
+  python main.py
+
 ---
 
