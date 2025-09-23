@@ -39,12 +39,12 @@ pip install pygame
    ```
 2. **Navigate into the project folder:**
    ```bash
-  cd zombie-dodge-game
+    cd zombie-dodge-game
     ```
 
 4. **Run the game:**
    ```bash
-  python main.py
+    python main.py
     ```
 
 ---
