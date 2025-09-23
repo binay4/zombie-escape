@@ -29,5 +29,5 @@ Stay alive as long as you can and beat your high score!
 Install dependencies:
 ```bash
 pip install pygame
-
+```
 ## 🚀 How to Run
